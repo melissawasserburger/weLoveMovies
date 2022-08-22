@@ -6,6 +6,5 @@ This project was a great exercise in express servers, database setup and communi
 Included routes for the project are:
 /movies  
 /movies/:movieId  
-/reviews  
 /reviews/:reviewId  
 /theaters  
